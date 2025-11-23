@@ -1,4 +1,4 @@
-# Challenging-Task-Lost-and-Found-item-tracker-
+# Challenging-Task(Lost-and-Found item tracker)
 My Vithyarthi project
 Overview of the project
 This Lost and Found Item Tracker is a simple application you run on your computer using text commands (a CLI application). It is built using Python to help quickly manage and keep track of things that are lost and found in a school,office etc.
@@ -16,7 +16,7 @@ Features:
   	Update Item Status:When someone claims their item, we can change the item's status from'LOST' to'FOUND'.
   	Displays lost and found items seperately in a table.
   	Displays all lost and found items together ina table.
-2]The Command Line (How You Use It)
+2]The Command Line (How You Use It):
 *Simple Menu: When we start the program, it gives us a simple list of choices, like:
 1. Record a LOST Item
 2. View ALL LOST Items
