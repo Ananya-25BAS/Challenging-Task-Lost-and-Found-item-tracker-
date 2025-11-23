@@ -18,13 +18,7 @@ Features:
   	Displays all lost and found items together ina table.
 2.  The Command Line (How You Use It):
 *Simple Menu: When we start the program, it gives us a simple list of choices, like:
-1.  Record a LOST Item
-2.  View ALL LOST Items
-3.  Mark a LOST Item as FOUND
-4.  View ALL FOUND Items
-5.  Search Items by Keyword
-6.  View ALL Items (Lost & Found)
-7.  Exit
+1.  Record a LOST Item  2. View ALL LOST Items  3.  Mark a LOST Item as FOUND  4.  View ALL FOUND Items  5.  Search Items by Keyword  6.  View ALL Items (Lost & Found)  7.  Exit
 *  Type and Go:We should just enter a number (like 3 to Search) and then type the details it asks for. It's fast and focused.
 *  Clear Results: The search results show up right on your screen in a table that is easy to read.
 Technologies/tools used:
